@@ -1,2 +1,6 @@
-# financial_transactions_challange_ds4a
-Repo for the DS4A data challenge
+**DS4A 2023 - Data Skills For All**
+
+Finance Transactions Challenge - Anomaly Detection
+
+Exploring transaction logs for fraud activity. 
+https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions
